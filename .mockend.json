@@ -2,6 +2,9 @@
   "Post": {
     "title": "string",
     "SQLServer": "string",
+    "SQLDB": "string",
+    "SQLUser": "string",
+    "SQLUserPW": "string",
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
