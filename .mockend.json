@@ -1,6 +1,7 @@
 {
   "Post": {
     "title": "string",
+    "SQLServer": "string",
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
